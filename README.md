@@ -1,9 +1,9 @@
 
 ### Olá, Mundo! Josafá Oliveira aqui. 🖐️
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&target="_bank")](https://www.instagram.com/josaholliveira)
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white&target="_bank")](https://jolliveira.blogspot.com)
-[![Blog](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white&target="_bank")](https://soundcloud.com/josah-oliveira)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&target="_blank")](https://www.instagram.com/josaholliveira)
+[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white&target="_blank")](https://jolliveira.blogspot.com)
+[![Blog](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white&target="_blank")](https://soundcloud.com/josah-oliveira)
 
 
 
