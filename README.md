@@ -18,3 +18,11 @@
 </div><br/>
 
 Conhecendo o universo do desenvolvimento e da programação.
+
+## Cursos Finalizados
+- [Curso em vídeo - Lógica de Programação](https://www.cursoemvideo.com/curso) <br>
+- [Curso em vídeo - Módulo 1 e 2 - HTML5 + CSS](https://www.cursoemvideo.com/curso)
+
+## Cursos em Andamento
+- [Curso em vídeo - Módulo 3 - HTML5 + CSS](https://www.cursoemvideo.com/curso) <br>
+- [Curso em vídeo - Javascript](https://www.cursoemvideo.com/curso) <br>
