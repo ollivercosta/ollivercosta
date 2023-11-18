@@ -7,7 +7,11 @@
 
 
 
-![Ollivercosta GitHub stats](https://github-readme-stats.vercel.app/api?username=ollivercosta&show_icons=true&theme=dark)
+<a href="https://github.com/ollivercosta/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ollivercosta" />
+</a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollivercosta&layout=compact)
 
 ## Aprendendo novas Tecnologias
 
@@ -26,3 +30,6 @@ Conhecendo o universo do desenvolvimento e da programação.
 ## Cursos em Andamento
 - Curso em vídeo - Módulo 3 - HTML5 + CSS <br>
 - Curso em vídeo - Javascript <br>
+
+
+
