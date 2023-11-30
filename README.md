@@ -25,11 +25,10 @@ Conhecendo o universo do desenvolvimento e da programação.
 
 ## Cursos Finalizados
 - Curso em vídeo - Lógica de Programação <br>
-- Curso em vídeo - Módulo 1, 2 e 3 - HTML5 + CSS
+- Curso em vídeo - Módulo 1, 2, 3 e 4 - HTML5 + CSS
 
 ## Cursos em Andamento
-- Curso em vídeo - Módulo 4 - HTML5 + CSS <br>
-- Curso em vídeo - Javascript <br>
+- Curso em vídeo - Javascript 
 
 
 
