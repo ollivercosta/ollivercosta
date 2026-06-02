@@ -1,34 +1,50 @@
+<h1>Olá! Sou Josah Oliveira.</h1>
+Bem-vindo(a) à minha página. <br>
+Sou Josah, estudante de Desenvolvimento de Sistemas.
 
-### Olá, Mundo! Josafá Oliveira aqui. 🖐️
+## Linguagens que estudo
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&target="_blank")](https://www.instagram.com/josaholliveira)
-[![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white&target="_blank")](https://jolliveira.blogspot.com)
-[![Blog](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white&target="_blank")](https://soundcloud.com/josah-oliveira)
+| Linguagem / Tecnologia | Nível de conhecimento | Status | Projetos/Estudos |
+|------------------------|------------|-----|----|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | Intermediário | Uso frequente | [`Projeto`](http://) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | Básico | Em desenvolvimento | [`Em breve`](http://) |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | Introdutório | Em desenvolvimento | [`Em breve`](http://) |
+| ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) | Introdutório | Em desenvolvimento | [`Em breve`](http://) |
+| ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) | Introdutório | Em desenvolvimento | [`Em breve`](http://) |
 
+## Projetos finalizados
 
+> Em preparação — os primeiros repositórios públicos serão publicados em breve.
 
-<a href="https://github.com/ollivercosta/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ollivercosta" />
-</a>
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ollivercosta&layout=compact)
+## Quer contribuir?
 
-## Aprendendo novas Tecnologias
+> Nenhuma publicação registrada ainda.
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</div><br/>
-
-Conhecendo o universo do desenvolvimento e da programação.
-
-## Cursos Finalizados
-- Curso em vídeo - Lógica de Programação <br>
-- Curso em vídeo - Módulo 1, 2, 3 e 4 - HTML5 + CSS
-
-## Cursos em Andamento
-- Curso em vídeo - Javascript 
+| Projetos em andamento | Descrição | Início do projeto |
+|--------|-----------|------|
+| [`Em breve`](http://) | Novo projeto em breve | 00/00/0000  |
 
 
 
+
+## Nota
+
+* **Propósito:** Os projetos contidos neste repositório possuem caráter estritamente acadêmico e de estudo.
+* **Foco Técnico:** Consolidação de lógica de programação, estruturas de dados e fundamentos web essenciais.
+
+
+
+## Contato
+
+- **LinkedIn:** [josah-oliveira](https://www.linkedin.com/in/josah-oliveira-499bb43a9/)
+- **GitHub:** [ollivercosta](https://github.com/ollivercosta)
+
+
+
+<div align="center">
+
+<sub>Atualizado em junho de 2026</sub>
+
+</div>
