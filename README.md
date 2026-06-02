@@ -2,7 +2,7 @@
 Bem-vindo(a) à minha página. <br>
 Sou Josah, estudante de Desenvolvimento de Sistemas.
 
-## Linguagens que estudo
+## Linguagens em desenvolvimento
 
 | Linguagem / Tecnologia | Nível de conhecimento | Status | Projetos/Estudos |
 |------------------------|------------|-----|----|
