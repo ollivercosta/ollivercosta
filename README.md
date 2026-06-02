@@ -22,9 +22,9 @@ Sou Josah, estudante de Desenvolvimento de Sistemas.
 
 > Nenhuma publicação registrada ainda.
 
-| Projetos em andamento | Descrição | Início do projeto |
-|--------|-----------|------|
-| [`Em breve`](http://) | Novo projeto em breve | 00/00/0000  |
+| Projetos em andamento | Descrição | Linguagem | Início do projeto |
+|--------|----------- | --- |------|
+| [`Em breve`](http://) | --- | --- | 00/00/0000  |
 
 
 
