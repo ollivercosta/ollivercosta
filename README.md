@@ -21,10 +21,10 @@ Sou Josah, estudante de Desenvolvimento de Sistemas.
 
 | Período | Duração | Formação / Curso | Instituição | Link do curso|
 |---|---|---|---|---|
-| 2026 - 2027 |1 ano e 6 meses (3 semestres)| Tecnólogo em Desenvolvimento de Sistemas | IFSULDEMINAS | [IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/curso-desenvolvimento-sistemas) |
-| 2026 - 2026 |1 mês | Mini curso de Angular | Curso externo |  |
-| 2026 - 2027 |11 módulos | HTML5, CSS3, JavaScript e Python | Curso em Vídeo | [Curso em Vídeo](https://www.cursoemvideo.com) |
-| 2026 - 2026 |2 módulos | Python | FIAP — Nano Curso | [FIAP](https://www.fiap.com.br) |
+| 2026/2027 |1 ano e 6 meses (3 semestres)| Tecnólogo em Desenvolvimento de Sistemas | IFSULDEMINAS | [IFSULDEMINAS](https://portal.pcs.ifsuldeminas.edu.br/curso-desenvolvimento-sistemas) |
+| 2026/2026 |1 mês | Mini curso de Angular | Curso externo |  |
+| 2026/2027 |11 módulos | HTML5, CSS3, JavaScript e Python | Curso em Vídeo | [Curso em Vídeo](https://www.cursoemvideo.com) |
+| 2026/2026 |2 módulos | Python | FIAP Nano Curso | [FIAP](https://www.fiap.com.br) |
 
 
 
